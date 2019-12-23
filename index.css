@@ -1,0 +1,152 @@
+.card-img{
+    opacity: 0.5;
+}
+h3{
+    color:white;
+    padding-right:17px;
+    text-align: center;
+    
+}
+#subNav{
+    padding-right: 80px;
+}
+.navbar-brand {
+    padding-left: 30px;
+
+}
+.navbar{
+    background-color: darkgray;
+    color:white;
+}
+.nav,.nav-link{
+    color:white;
+    padding-right: 50px;
+}
+#square{
+        border-radius: 0;
+}
+.card-img-overlay {
+    top:100px;
+}
+.content-div{
+    width: 50%;
+    padding-top:0;
+    padding-left: 20px;
+    
+}
+
+a{
+    color: white;
+}
+tr{
+    margin-bottom: 20px;
+
+}
+.row, .col-12{
+    margin-bottom:12px;
+    text-align: center;
+}
+.row .col-6 img{
+    width:100%;
+    height:100%;
+    padding-left: 0;
+    
+    
+    
+    
+
+}
+.container{
+    margin-top:40px;
+    
+}
+.col-6{
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: orange;
+    margin-bottom: 0;
+    
+}
+.card{
+    margin-left:12px;
+    margin-bottom: 12px;
+}
+
+
+    select {
+        
+        margin:5px 10px 10px 5px;
+        border: 1px solid #ccc;
+        padding:10px;
+        
+        resize: vertical;
+      }
+
+input{
+
+    margin:5px 10px 10px 5px;
+        border: 1px solid #ccc;
+        padding:10px;
+        
+        
+        resize: vertical;
+
+
+}
+
+
+
+
+
+.container .row .col-4 .card-body h5 p::selection {
+    color: white;
+    background: orange;
+  }
+  #unique{
+      background-color: aliceblue;
+      text-align: center;
+      margin-top:0;
+  }
+  .btn {
+    border: 2px solid grey;
+    background-color: white;
+    color: grey;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .checked {
+    color: orange;
+  }
+  .highlight{
+      color: white;
+      background-color: black;
+  }
+  .card .col-3 img{
+    margin-right:10px;
+    margin-left:10px;
+    border:none;
+    
+    
+}
+.card-img-top{
+    opacity: 1;
+}
+.list-unstyled li a{
+    color: black;
+}
+#footer{
+    background-color:grey;
+    width:100%;
+    height: 100%;
+}
+#top{
+    width:100%;
+    height: 100%;
+}
+
+.links{
+    color: black;
+}
